@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-08T09:20:14 CDT" name="Default suite" finished-at="2022-09-08T09:20:24 CDT" duration-ms="9762">
+    <groups>
+    </groups>
+    <test started-at="2022-09-08T09:20:14 CDT" name="Default test" finished-at="2022-09-08T09:20:24 CDT" duration-ms="9762">
+      <class name="sample.SmplTes1">
+        <test-method signature="deleteData()[pri:0, instance:sample.SmplTes1@703580bf]" started-at="2022-09-08T09:20:14 CDT" name="deleteData" finished-at="2022-09-08T09:20:19 CDT" duration-ms="5023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteData -->
+        <test-method signature="getdata()[pri:0, instance:sample.SmplTes1@703580bf]" started-at="2022-09-08T09:20:19 CDT" name="getdata" finished-at="2022-09-08T09:20:21 CDT" duration-ms="1681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+        <test-method signature="postdata()[pri:0, instance:sample.SmplTes1@703580bf]" started-at="2022-09-08T09:20:21 CDT" name="postdata" finished-at="2022-09-08T09:20:23 CDT" duration-ms="1781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postdata -->
+        <test-method signature="putdata()[pri:0, instance:sample.SmplTes1@703580bf]" started-at="2022-09-08T09:20:23 CDT" name="putdata" finished-at="2022-09-08T09:20:24 CDT" duration-ms="1211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putdata -->
+      </class> <!-- sample.SmplTes1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
